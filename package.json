@@ -1,0 +1,16 @@
+{
+	"name": "wordreference",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "LeoDupont",
+	"license": "ISC",
+	"dependencies": {
+		"open": "^8.4.0",
+		"wordreference-api": "^1.1.0"
+	}
+}
