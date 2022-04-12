@@ -24,6 +24,8 @@ For example, to translate "c'est la vie" from French to English, you would type:
 fren c'est la vie
 ```
 
+![usage screenshot](https://raw.githubusercontent.com/LeoDupont/Flow.Launcher.Plugin.WordReference/main/.readme-images/usage.png)
+
 You can then read the results, or select one of them to open the full WordReference result page in your browser.
 
 # Installation
