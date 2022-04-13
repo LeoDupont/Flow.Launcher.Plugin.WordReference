@@ -38,6 +38,7 @@ Just go to https://nodejs.org/ and download the LTS ("Long Term Support") versio
 
 ## 2. Install the plugin
 
-> Waiting for the plugin to be listed on [Flow Launcher's plugin directory](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest).
-
-In the meantime, you can clone or download this project and install it manually in your `%APPDATA%\FlowLauncher\Plugins` directory, in a `WordReference` subfolder, for example.
+You can find this plugin in Flow's Plugin Store (in the app's settings), or by directly running this command in Flow Launcher:
+```
+pm install WordReference
+```
