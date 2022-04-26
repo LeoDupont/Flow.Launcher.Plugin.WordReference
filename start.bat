@@ -4,7 +4,7 @@ SET icon=%plugin_dir%images\favicon-32x32.png
 :: JSON doesn't like backslashes so we convert them to forward slashes
 SET "icon=%icon:\=/%"
 SET title="Error: Node.js is not installed on your system."
-SET subtitle="Please install node.js to use the WordReference Plugin!"
+SET subtitle="Please install it from nodejs.org to use the WordReference Plugin!"
 
 
 where /q node
