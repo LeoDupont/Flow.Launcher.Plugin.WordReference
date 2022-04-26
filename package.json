@@ -5,7 +5,9 @@
 	"main": "src/main.js",
 	"type": "module",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev:set-junction": "mklink /j \"%appdata%/FlowLauncher/Plugins/dev_WordReference\" \".\"",
+		"dev:remove-junction": "rmdir \"%appdata%/FlowLauncher/Plugins/dev_WordReference\""
 	},
 	"author": "LeoDupont",
 	"license": "ISC",
